@@ -1,7 +1,7 @@
 package com.credersi.animals;
 
 public class Animal {
-	private boolean alive;
+	protected boolean alive;
 	private int hunger;
 	
 	protected void dies() {
